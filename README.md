@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img border-radius: 15px src="IMG-20210830-WA0000.jpg" width="200" height="200"/>
+  <img border-radius: 15px src="+91 75608 31917 20201123_224316.jpg" width="200" height="200"/>
   <p align="center">
 <a href="#"><img title="RickyMwol" src="https://img.shields.io/badge/RickyMwol-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
